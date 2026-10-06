@@ -80,6 +80,7 @@ The Date Table includes:
 - Day
 - Day Name
 The Date Table is related to the Sales_Data table using the Order Date field.
+
 📊 Key Business Insights
 The dashboard enables users to identify:
 - Monthly sales and profit trends

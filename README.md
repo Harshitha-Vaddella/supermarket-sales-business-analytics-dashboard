@@ -54,23 +54,28 @@ The dashboard provides an executive-level overview of business performance using
 Total Sales =
 SUM(Sales_Data[Sales])
 
-Total Profit
+### Total Profit
+
 Total Profit =
 SUM(Sales_Data[Profit])
 
-Total Orders
+###Total Orders
+
 Total Orders =
 DISTINCTCOUNT(Sales_Data[Order ID])
 
-Total Customers
+###Total Customers
+
 Total Customers =
 DISTINCTCOUNT(Sales_Data[Customer ID])
 
-Total Quantity
+###Total Quantity
+
 Total Quantity =
 SUM(Sales_Data[Quantity])
 
-Profit Margin %
+###Profit Margin %
+
 Profit Margin % =
 DIVIDE([Total Profit], [Total Sales], 0)
 
@@ -85,6 +90,7 @@ The Date Table includes:
 - Day
 - Day Name
 The Date Table is related to the Sales_Data table using the Order Date field.
+
 📊 Key Business Insights
 The dashboard enables users to identify:
 - Monthly sales and profit trends
@@ -93,21 +99,7 @@ The dashboard enables users to identify:
 - City-wise sales performance
 - Customer payment preferences
 - Overall sales and profitability performance
-📷 Dashboard Preview
- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f96273e1-735b-4a1a-942e-6f8fbdb11fca" />
-📁 Project Files
-- Supermarket-Sales-Business-Analytics-Dashboard.pbix — Power BI dashboard file
-- dashboard.png — Dashboard preview image
-- README.md — Project documentation
-🛠️ Skills Demonstrated
-- Data Cleaning & Transformation
-- Power Query
-- DAX
-- Data Modeling
-- KPI Development
-- Interactive Dashboard Design
-- Business Analytics
-- Data Visualization
+
 👩‍💻 Author
 Vaddella Sai Harshitha
 Computer Science Graduate | Aspiring Data Analyst / Python Developer

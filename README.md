@@ -101,7 +101,8 @@ The dashboard enables users to identify:
 - Overall sales and profitability performance
 
 📷 Dashboard Preview
- 
+ ![Supermarket Sales Dashboard](dashboard.png)
+
 📁 Project Files
 - Supermarket-Sales-Business-Analytics-Dashboard.pbix
 - README.md

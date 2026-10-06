@@ -54,28 +54,23 @@ The dashboard provides an executive-level overview of business performance using
 Total Sales =
 SUM(Sales_Data[Sales])
 
-### Total Profit
-
+Total Profit
 Total Profit =
 SUM(Sales_Data[Profit])
 
-###Total Orders
-
+Total Orders
 Total Orders =
 DISTINCTCOUNT(Sales_Data[Order ID])
 
-###Total Customers
-
+Total Customers
 Total Customers =
 DISTINCTCOUNT(Sales_Data[Customer ID])
 
-###Total Quantity
-
+Total Quantity
 Total Quantity =
 SUM(Sales_Data[Quantity])
 
-###Profit Margin %
-
+Profit Margin %
 Profit Margin % =
 DIVIDE([Total Profit], [Total Sales], 0)
 
@@ -101,8 +96,7 @@ The dashboard enables users to identify:
 - Overall sales and profitability performance
 
 📷 Dashboard Preview
- ![Supermarket Sales Dashboard](dashboard.png)
-
+ 
 📁 Project Files
 - Supermarket-Sales-Business-Analytics-Dashboard.pbix
 - README.md

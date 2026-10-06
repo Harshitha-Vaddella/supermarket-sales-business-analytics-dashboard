@@ -1,56 +1,43 @@
-# Supermarket Sales & Business Analytics Dashboard
-
-## 📊 Project Overview
-
-The **Supermarket Sales & Business Analytics Dashboard** is an interactive Power BI project designed to analyze sales performance, profitability, customer behavior, branch performance, product categories, cities, and payment methods.
+Supermarket Sales & Business Analytics Dashboard
+📊 Project Overview
+The Supermarket Sales & Business Analytics Dashboard is an interactive Power BI project designed to analyze sales performance, profitability, customer behavior, branch performance, product categories, cities, and payment methods.
 
 The dashboard provides an executive-level overview of business performance using interactive KPIs, slicers, charts, and time-based analysis.
 
-## 🎯 Project Objectives
-
-- Analyze overall sales and profitability
-- Track total orders and customers
-- Analyze monthly sales and profit trends
-- Compare sales performance across branches and cities
-- Analyze sales by product category
-- Understand customer payment method preferences
-- Provide interactive filtering for business analysis
-
-## 🛠️ Tools & Technologies
-
-- **Power BI Desktop**
-- **Power Query**
-- **DAX**
-- **Microsoft Excel**
-- **Data Modeling**
-
-## 📌 Key KPIs
-
-- Total Sales
-- Total Profit
-- Total Orders
-- Total Customers
-- Total Quantity
-- Profit Margin %
-
-## 📈 Dashboard Features
-
-- Interactive Year slicer
-- Interactive City slicer
-- Interactive Category slicer
-- Interactive Payment Method slicer
-- Monthly Sales & Profit Trend
-- Sales by Branch
-- Sales by Category
-- Sales by Payment Method
-- Sales by City
-- KPI cards for business performance
-
-## 🧮 DAX Measures
-
-### Total Sales
-
-```DAX
+🎯 Project Objectives
+Analyze overall sales and profitability
+Track total orders and customers
+Analyze monthly sales and profit trends
+Compare sales performance across branches and cities
+Analyze sales by product category
+Understand customer payment method preferences
+Provide interactive filtering for business analysis
+🛠️ Tools & Technologies
+Power BI Desktop
+Power Query
+DAX
+Microsoft Excel
+Data Modeling
+📌 Key KPIs
+Total Sales
+Total Profit
+Total Orders
+Total Customers
+Total Quantity
+Profit Margin %
+📈 Dashboard Features
+Interactive Year slicer
+Interactive City slicer
+Interactive Category slicer
+Interactive Payment Method slicer
+Monthly Sales & Profit Trend
+Sales by Branch
+Sales by Category
+Sales by Payment Method
+Sales by City
+KPI cards for business performance
+🧮 DAX Measures
+Total Sales
 Total Sales =
 SUM(Sales_Data[Sales])
 

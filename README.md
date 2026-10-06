@@ -90,7 +90,9 @@ The dashboard enables users to identify:
 - Customer payment preferences
 - Overall sales and profitability performance
 
-📷 Dashboard Preview
+## 📷 Dashboard Preview
+
+![Supermarket Sales Dashboard](dashboard.png)
  
 📁 Project Files
 - Supermarket-Sales-Business-Analytics-Dashboard.pbix

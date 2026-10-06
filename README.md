@@ -1,6 +1,7 @@
 Supermarket Sales & Business Analytics Dashboard
 
 📊 Project Overview
+
 The Supermarket Sales & Business Analytics Dashboard is an interactive Power BI project designed to analyze sales performance, profitability, customer behavior, branch performance, product categories, cities, and payment methods.
 
 The dashboard provides an executive-level overview of business performance using interactive KPIs, slicers, charts, and time-based analysis.
@@ -16,6 +17,7 @@ Understand customer payment method preferences
 Provide interactive filtering for business analysis
 
 🛠️ Tools & Technologies
+
 Power BI Desktop
 Power Query
 DAX
@@ -23,6 +25,7 @@ Microsoft Excel
 Data Modeling
 
 📌 Key KPIs
+
 Total Sales
 Total Profit
 Total Orders

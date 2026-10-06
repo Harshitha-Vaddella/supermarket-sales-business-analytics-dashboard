@@ -100,6 +100,13 @@ The dashboard enables users to identify:
 - Customer payment preferences
 - Overall sales and profitability performance
 
+📷 Dashboard Preview
+ 
+📁 Project Files
+- Supermarket-Sales-Business-Analytics-Dashboard.pbix
+- README.md
+- dashboard.png
+
 👩‍💻 Author
 Vaddella Sai Harshitha
 Computer Science Graduate | Aspiring Data Analyst / Python Developer
